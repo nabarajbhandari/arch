@@ -1,0 +1,6 @@
+#load_thumbnail_viewer=ueberzug
+show_thumbnails=0
+skip_thumb_download=0
+search_again=0
+notify_playing=0
+thumbnail_quality=medium
